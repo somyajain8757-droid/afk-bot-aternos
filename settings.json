@@ -8,7 +8,7 @@
   "server": {
     "ip": "SSISsmp1.aternos.me",
     "port": 75759,
-    "version": "26.2"
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
